@@ -1,4 +1,4 @@
-# CPL
+# CPL (customised pixel launcher)
 
 this project is to try to get the apk to build using android studio
 
